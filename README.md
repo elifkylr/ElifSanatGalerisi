@@ -1,1 +1,5 @@
-# ElifSanatGalerisi
+Sanat Galerisi
+Günümüzde pek çok sanatçı, ortaya koyduğu sanat eserini daha geniş kitlelere ulaştırmak için yoğun çaba sarf etmektedir. Hele ki ismi henüz duyulmamış sanatçılar için bu durum daha da zorlayıcı olabilir. Sanatçıların ve sanatseverlerin arasındaki bu engeli aşmak amacıyla oluşturduğum sanat galerisi platformu ise sanatçıların sanat eserlerini yükleyip sanatseverlerle paylaşabilecekleri, hatta potansiyel alıcılara ulaşabilecekleri bir ortam oluşturmayı hedeflemektedir. 
+Sanat Galerisinde bir sanatçı olarak sanatınızı dilediğiniz gibi güvenle paylaşabilirsiniz: Dijital bir resim, geleneksel bir yağlıboya tablosu, amatör grubunuzla bestelediğiniz bir şarkı, ilgi çekici bir melodi, uzun bir kitap veya kısa bir şiir... 
+Sanatsever olarak oturduğunuz yerden her türde sanat eserlerini inceleyebilir, beğenebilir ve hatta yorum yapıp takdirinizi belirtebilirsiniz.
+NFT'ye dayalı sistemi ile eserlerinizi alıcılarla, koleksiyoncularla, yayınevleri ve yapım şirketleriyle telif haklarınızı koruyarak buluşturabilirsiniz. 
